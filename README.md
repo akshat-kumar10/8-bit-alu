@@ -21,6 +21,8 @@ This repository contains the Verilog RTL design and simulation testbench for a p
 | `110` | **SLL** | Shift `A` Left Logical by 1 bit. MSB becomes `carry`. |
 | `111` | **SRL** | Shift `A` Right Logical by 1 bit. LSB becomes `carry`. |
 
+![RTL Schematic](RTL_ALU.png)
+
 ## Module Interface
 
 ```verilog
